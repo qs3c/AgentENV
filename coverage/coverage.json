@@ -1,0 +1,25 @@
+{
+  "branches": {
+    "coverage": "-",
+    "missed": 0,
+    "total": 0
+  },
+  "functions": {
+    "coverage": "75.05%",
+    "missed": 1662,
+    "total": 6661
+  },
+  "generated_at": "2026-09-29T10:13:35Z",
+  "lines": {
+    "coverage": "79.32%",
+    "missed": 11774,
+    "total": 56929
+  },
+  "package": "workspace",
+  "regions": {
+    "coverage": "78.28%",
+    "missed": 17614,
+    "total": 81088
+  },
+  "run_url": "https://github.com/qs3c/AgentENV/actions/runs/36551505837"
+}
